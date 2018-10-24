@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Void Elementor Post Grid Addon for Elementor Page "
+"builder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-23 18:45+0000\n"
+"PO-Revision-Date: 2018-09-23 18:45+0000\n"
+"Last-Translator: william <williamschons13@gmail.com>\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: plugin.php:14
+msgid "VOID ELEMENTS"
+msgstr ""
+
+#: template-tags.php:25 template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: template-tags.php:49 template-tags.php:55
+msgid ", "
+msgstr ""
+
+#: template-tags.php:51
+#, php-format
+msgid " %1$s "
+msgstr ""
+
+#: template-tags.php:57
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#. %s: post title
+#: template-tags.php:64
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deixe um comentário<span class=\"screen-reader-text\"> aqui %s</span>"
+
+#: widgets/void-post-grid.php:51
+msgid "Post Grid Query"
+msgstr ""
+
+#: widgets/void-post-grid.php:58
+msgid ""
+"For more detail about following filters please refer <a href=\"https://codex."
+"wordpress.org/Template_Tags/get_posts\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: widgets/void-post-grid.php:66
+msgid "Select post type"
+msgstr ""
+
+#: widgets/void-post-grid.php:74
+msgid "Select Taxonomy"
+msgstr ""
+
+#: widgets/void-post-grid.php:86
+msgid "Select Terms (usually categories/tags) * Must Select Taxonomy First"
+msgstr ""
+
+#: widgets/void-post-grid.php:100
+msgid "Include / Exclude With Category ID"
+msgstr ""
+
+#: widgets/void-post-grid.php:103
+msgid ""
+"Get post category id and add them here. To Include use the id(s) directly "
+"(Example: 1,2,3), To exclude category add a minus sign before the category "
+"ID (Example : -1,-44,-3343)"
+msgstr ""
+
+#: widgets/void-post-grid.php:104
+msgid "-1,-2,-33,10,11"
+msgstr ""
+
+#: widgets/void-post-grid.php:110
+msgid ""
+"For finding out your category ID follow <a href=\"https://voidcoders."
+"com/find-category-id-wordpress/\" target=\"_blank\">this</a>"
+msgstr ""
+
+#: widgets/void-post-grid.php:123
+msgid "Pagination & Setting"
+msgstr ""
+
+#: widgets/void-post-grid.php:130
+msgid "Post Per Page"
+msgstr ""
+
+#: widgets/void-post-grid.php:131
+msgid "Give -1 for all post & No Pagination"
+msgstr ""
+
+#: widgets/void-post-grid.php:140
+msgid "Pagination Enabled"
+msgstr ""
+
+#: widgets/void-post-grid.php:155
+msgid "Post Offset"
+msgstr ""
+
+#: widgets/void-post-grid.php:164
+msgid "Order By"
+msgstr ""
+
+#: widgets/void-post-grid.php:175
+msgid "Post Order"
+msgstr ""
+
+#: widgets/void-post-grid.php:189
+msgid "Sticky Condition"
+msgstr ""
+
+#: widgets/void-post-grid.php:205
+msgid "Post Style & Image Settings"
+msgstr ""
+
+#: widgets/void-post-grid.php:213
+msgid "Choose your desired style"
+msgstr ""
+
+#: widgets/void-post-grid.php:229
+msgid "Posts Per Row"
+msgstr ""
+
+#: widgets/void-post-grid.php:249
+msgid "Image Condition"
+msgstr ""
+
+#: widgets/void-post-grid.php:252
+msgid "Show All"
+msgstr ""
+
+#: widgets/void-post-grid.php:253
+msgid "With Image"
+msgstr ""
+
+#: widgets/void-post-grid.php:254
+msgid "Without Image"
+msgstr ""
+
+#: widgets/void-post-grid.php:275
+msgid "Featured Image Style"
+msgstr ""
+
+#: widgets/void-post-grid.php:298
+msgid "Style"
+msgstr ""
+
+#: widgets/void-post-grid.php:306
+msgid "Title Text Transform"
+msgstr ""
+
+#: widgets/void-post-grid.php:310 widgets/void-post-grid.php:406
+msgid "None"
+msgstr ""
+
+#: widgets/void-post-grid.php:311 widgets/void-post-grid.php:407
+msgid "UPPERCASE"
+msgstr ""
+
+#: widgets/void-post-grid.php:312 widgets/void-post-grid.php:408
+msgid "lowercase"
+msgstr ""
+
+#: widgets/void-post-grid.php:313 widgets/void-post-grid.php:409
+msgid "Capitalize"
+msgstr ""
+
+#: widgets/void-post-grid.php:324
+msgid "Title Size"
+msgstr ""
+
+#: widgets/void-post-grid.php:347
+msgid "Title Color"
+msgstr ""
+
+#: widgets/void-post-grid.php:358
+msgid "Title Hover Color"
+msgstr ""
+
+#: widgets/void-post-grid.php:369
+msgid "Meta Color"
+msgstr ""
+
+#: widgets/void-post-grid.php:380
+msgid "Meta Hover Color"
+msgstr ""
+
+#: widgets/void-post-grid.php:391
+msgid "Meta Icon Color"
+msgstr ""
+
+#: widgets/void-post-grid.php:402
+msgid "Excerpt Transform"
+msgstr ""
+
+#: widgets/void-post-grid.php:420
+msgid "Excerpt Size"
+msgstr ""
+
+#: widgets/void-post-grid.php:443
+msgid "Excerpt Color"
+msgstr ""
+
+#: widgets/void-post-grid.php:455
+msgid "Text Alignment"
+msgstr ""
+
+#: widgets/void-post-grid.php:459 widgets/void-post-grid.php:489
+msgid "Left"
+msgstr ""
+
+#: widgets/void-post-grid.php:463 widgets/void-post-grid.php:493
+msgid "Center"
+msgstr ""
+
+#: widgets/void-post-grid.php:467 widgets/void-post-grid.php:497
+msgid "Right"
+msgstr ""
+
+#: widgets/void-post-grid.php:471 widgets/void-post-grid.php:501
+msgid "Justified"
+msgstr ""
+
+#: widgets/void-post-grid.php:485
+msgid "Pagination Alignment"
+msgstr ""
+
+#: widgets/void-post-grid.php:514
+msgid "Pagination Size"
+msgstr ""
+
+#. Name of the plugin
+msgid "Void Elementor Post Grid Addon for Elementor Page builder"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Elementor Post Grid in 5 different style by voidcoders for elementor page "
+"builder"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://voidcoders.com/product/post-grid-add-on-for-elementor-free/"
+msgstr ""
+
+#. Author of the plugin
+msgid "VOID CODERS"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://voidcoders.com"
+msgstr ""
